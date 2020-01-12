@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1520325810 source:d:\alpro2\fungsi.c
+	"header.h"
+
+1520325810 d:\alpro2\header.h
+	<stdio.h>
+	<stdlib.h>
+
